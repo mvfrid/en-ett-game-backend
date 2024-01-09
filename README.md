@@ -2,13 +2,17 @@
 
 This project includes the packages and babel setup for an express server, and is just meant to make things a little simpler to get up and running with.
 
-## Getting started
+---- 
 
-Install dependencies with `npm install`, then start the server by running `npm run dev`
+# Deployed Frontend
+https://en-ett.netlify.app/
 
-## View it live
+# Frontend repository
+https://github.com/mvfrid/en-ett-game
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
-
-
-Backend till "en-ett-game"
+## How to Run the API Locally:
+Clone the repository
+Install dependencies with npm install
+Make sure MongoDB is installed and running
+Run the server with npm start
+Access the API at http://localhost:8080
